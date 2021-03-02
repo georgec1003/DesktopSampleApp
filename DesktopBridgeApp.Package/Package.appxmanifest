@@ -9,12 +9,12 @@
 
   <Identity
     Name="2499ba74-ec4f-4cc8-8bfa-36c59ee11352"
-    Publisher="CN=georg"
+    Publisher="CN=George Chang"
     Version="1.0.0.0" />
 
   <Properties>
     <DisplayName>DesktopBridgeApp.Package</DisplayName>
-    <PublisherDisplayName>georg</PublisherDisplayName>
+    <PublisherDisplayName>George Chang</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
 
@@ -32,7 +32,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="DesktopBridgeApp.Package"
+        DisplayName="DesktopBridgeApp"
         Description="DesktopBridgeApp.Package"
         BackgroundColor="transparent"
         Square150x150Logo="Images\Square150x150Logo.png"
