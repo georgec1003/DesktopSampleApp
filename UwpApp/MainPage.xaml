@@ -10,7 +10,7 @@
 
     <Grid>
         <StackPanel Orientation="Horizontal">
-            <TextBlock Text="Status: " />
+            <TextBlock Text="Device : " />
             <TextBlock Text="{x:Bind ViewModel.DeviceConnectStatus, Mode=OneWay}" />
         </StackPanel>
     </Grid>
